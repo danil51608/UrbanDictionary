@@ -1,0 +1,26 @@
+.searchWrapper{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.searchInputWrapper{
+    display: flex;
+    margin: 50px auto 0 auto;
+    justify-content: center;
+}
+
+.searchBar{
+    width: 500px;
+    margin-right: 20px;
+}
+
+.searchBtn{
+    background: green;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+}

@@ -1,0 +1,14 @@
+.searchItemWrapper{
+    text-align: left;
+    width: 100%;
+    border-bottom: 1px solid grey;
+    cursor: pointer;
+    margin-left: 20px;
+    padding: 10px;
+    font-family: Arial;
+}
+
+.searchItemWrapper:hover{
+    background: #ececec;
+}
+
